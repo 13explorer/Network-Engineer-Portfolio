@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" version="29.6.6">
   <diagram name="Page-1" id="tY9LvLH5p0rsGqOHwS49">
-    <mxGraphModel>
+    <mxGraphModel dx="926" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1_PZH9IiNbJASOhTeY5g-1" parent="1" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;rackUnitSize=14.8;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" value="" vertex="1">
+          <mxGeometry height="750" width="204" x="110" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1_PZH9IiNbJASOhTeY5g-9" parent="1_PZH9IiNbJASOhTeY5g-1" style="shape=mxgraph.rack.apc.apc_smart_ups_750_va_1u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="TransFormer" vertex="1">
+          <mxGeometry height="14.8" width="162" x="33" y="672.2" as="geometry" />
+        </mxCell>
+        <mxCell id="1_PZH9IiNbJASOhTeY5g-7" parent="1_PZH9IiNbJASOhTeY5g-1" style="shape=mxgraph.rack.ibm.ibm_1500-2200va_ups;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="UPS" vertex="1">
+          <mxGeometry height="29.6" width="162" x="33" y="687" as="geometry" />
+        </mxCell>
+        <mxCell id="1_PZH9IiNbJASOhTeY5g-4" parent="1" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;rackUnitSize=14.8;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" value="" vertex="1">
+          <mxGeometry height="750" width="204" x="490" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1_PZH9IiNbJASOhTeY5g-6" parent="1_PZH9IiNbJASOhTeY5g-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="BACK" vertex="1">
+          <mxGeometry height="29.6" width="162" x="33" y="21" as="geometry" />
+        </mxCell>
+        <mxCell id="1_PZH9IiNbJASOhTeY5g-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span&gt;FRONT&lt;/span&gt;" vertex="1">
+          <mxGeometry height="29.6" width="162" x="139" y="76.4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
