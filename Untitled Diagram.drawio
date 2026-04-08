@@ -1,14 +1,56 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0" version="29.6.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0">
   <diagram name="Page-1" id="tY9LvLH5p0rsGqOHwS49">
-    <mxGraphModel dx="926" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1_PZH9IiNbJASOhTeY5g-1" parent="1" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;rackUnitSize=14.8;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" value="" vertex="1">
-          <mxGeometry height="750" width="204" x="110" y="120" as="geometry" />
+          <mxGeometry height="750" width="204" x="100" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="1_PZH9IiNbJASOhTeY5g-9" parent="1_PZH9IiNbJASOhTeY5g-1" style="shape=mxgraph.rack.apc.apc_smart_ups_750_va_1u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="TransFormer" vertex="1">
-          <mxGeometry height="14.8" width="162" x="33" y="672.2" as="geometry" />
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-12" parent="1_PZH9IiNbJASOhTeY5g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="PA-850" vertex="1">
+          <mxGeometry height="14.8" width="162" x="33" y="21" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-13" parent="1_PZH9IiNbJASOhTeY5g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Switch 1" vertex="1">
+          <mxGeometry height="14.8" width="162" x="33" y="50.6" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-14" parent="1_PZH9IiNbJASOhTeY5g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Switch 2" vertex="1">
+          <mxGeometry height="14.8" width="162" x="33" y="65.4" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-33" parent="1_PZH9IiNbJASOhTeY5g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arctic Wolf Sensor" vertex="1">
+          <mxGeometry height="14.8" width="162" x="33" y="109.80000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-11" parent="1_PZH9IiNbJASOhTeY5g-1" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_1u;" value="Tape Controller 1U" vertex="1">
+          <mxGeometry height="14.8" width="162" x="33" y="124.60000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-10" parent="1_PZH9IiNbJASOhTeY5g-1" style="shape=mxgraph.rack.ibm.ibm_x3630_m3;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="Tape Library 3U" vertex="1">
+          <mxGeometry height="44.400000000000006" width="162" x="33" y="139.4" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-41" parent="1_PZH9IiNbJASOhTeY5g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shelf With SSI-NAS" vertex="1">
+          <mxGeometry height="59.2" width="162" x="33" y="272.6" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-8" parent="1_PZH9IiNbJASOhTeY5g-1" style="shape=mxgraph.rack.hp.hp_proliant_dl380p_g8;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="Synology" vertex="1">
+          <mxGeometry height="29.6" width="162" x="33" y="346.6" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-34" parent="1_PZH9IiNbJASOhTeY5g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="KVM&amp;nbsp;" vertex="1">
+          <mxGeometry height="14.8" width="162" x="33" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-31" parent="1_PZH9IiNbJASOhTeY5g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI Server 1" vertex="1">
+          <mxGeometry height="59.2" width="162" x="33" y="420.6" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-15" parent="1_PZH9IiNbJASOhTeY5g-1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI Server 2" vertex="1">
+          <mxGeometry height="59.2" width="162" x="33" y="479.8" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-7" parent="1_PZH9IiNbJASOhTeY5g-1" style="shape=mxgraph.rack.hp.hp_proliant_dl385p_g8;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="Nutanix I&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="29.6" width="162" x="33" y="553.8000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-6" parent="1_PZH9IiNbJASOhTeY5g-1" style="shape=mxgraph.rack.hp.hp_proliant_dl385p_g8;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="Nutanix II" vertex="1">
+          <mxGeometry height="29.6" width="162" x="33" y="583.4" as="geometry" />
+        </mxCell>
+        <mxCell id="hz62Zp10bRYslKXp6ZZV-1" parent="1_PZH9IiNbJASOhTeY5g-1" style="shape=mxgraph.rack.hp.hp_proliant_dl385p_g8;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="Nutanix III" vertex="1">
+          <mxGeometry height="29.6" width="162" x="33" y="613" as="geometry" />
+        </mxCell>
+        <mxCell id="1_PZH9IiNbJASOhTeY5g-9" parent="1_PZH9IiNbJASOhTeY5g-1" style="shape=mxgraph.rack.apc.apc_smart_ups_750_va_1u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="&lt;div&gt;Transformer&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14.8" width="162" x="33" y="657.4" as="geometry" />
         </mxCell>
         <mxCell id="1_PZH9IiNbJASOhTeY5g-7" parent="1_PZH9IiNbJASOhTeY5g-1" style="shape=mxgraph.rack.ibm.ibm_1500-2200va_ups;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="UPS" vertex="1">
           <mxGeometry height="29.6" width="162" x="33" y="687" as="geometry" />
